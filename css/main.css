@@ -512,7 +512,7 @@ h1.navbar-brand {
 ==================================================================*/
 
 #about {
-    background-color: #009EE3;
+    background-image: radial-gradient(circle at 50% -20.71%, #be5af5 0, #a04ff4 16.67%, #7944f3 33.33%, #3c3cf2 50%, #0037f1 66.67%, #0034ef 83.33%, #0034ee 100%);
     color: #fff;
 }
 
@@ -727,7 +727,7 @@ ul.external li a:hover {
 
 
 #testimonials {
-    background-image: url(../img/parallax/testimonial.jpg);
+    background-image: url(../img/parallax/backgroundpx.jpg);
     padding: 0;
     color: #fff;
 }
@@ -897,7 +897,7 @@ ul.external li a:hover {
 ==================================================================*/
 
 #social {
-    background-image: url(../img/slider/banner.jpg);
+    background-image: url(../img/slider/banner2.jpg);
     padding: 0;
 }
 

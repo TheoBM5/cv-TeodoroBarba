@@ -8,6 +8,15 @@ jQuery(window).load(function(){
 
 });
 
+
+// Función para actualizar la posición del carrusel
+function updateCarousel() {
+    const translateX = -currentIndex * 100;
+    carouselContainer.style.transform = `translateX(${translateX}%)`;
+}
+
+
+
 /* ========================================================================= */
 /*  Welcome Section Slider
 /* ========================================================================= */

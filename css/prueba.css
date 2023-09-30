@@ -1,12 +1,15 @@
 /* Estilos para el carrusel */
+.carousel-background {
+    background-color: rgba(234, 234, 234, 0.985);
+    overflow: hidden;
+    padding-bottom: 5%;
+}
+
+
 .carousel-container {
     padding-top: 5%;
     display: flex;
-    
-
-
     width: 100%;
-
 }
 
 .carousel-slide {
